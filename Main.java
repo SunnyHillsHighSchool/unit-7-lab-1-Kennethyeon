@@ -1,7 +1,7 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
-//Name -
-//Date -
+//Name - Kenneth Yeon
+//Date - 1/29/2021
 
 import java.util.Arrays;
 
